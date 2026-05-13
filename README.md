@@ -3,6 +3,8 @@
 cálculo de modos de ondas estacionárias em salas retangulares
 # Calculadora de Modos de Sala
 
+## DOI: https://doi.org/10.5281/zenodo.20159898
+
 Esta pasta contém uma versão em Python da planilha `MODOS2026.xlsm`. A ferramenta calcula os modos acústicos de uma sala retangular, separa os modos em axiais, tangenciais e oblíquos, exporta tabelas em CSV e gera gráficos para análise em aula.
 
 O objetivo didático é ajudar estudantes de música a enxergar por que algumas salas reforçam ou cancelam certas notas graves. Em baixas frequências, a sala não se comporta como um campo sonoro uniforme: ela tem ressonâncias. Essas ressonâncias são os modos.
