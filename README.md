@@ -164,3 +164,9 @@ As recomendações são hipóteses de trabalho, não prescrições definitivas. 
 ## Observação Sobre a Planilha
 
 A planilha original gera grades de modos e usa fatores de compensação para reduzir a influência dos modos tangenciais e oblíquos na densidade modal. Esta versão enumera diretamente combinações únicas `(p, q, r)` para a tabela de modos, mas aplica pesos apenas no cálculo do gráfico de densidade modal ponderada.
+
+Conteúdo didático, metodologia acústica, textos e documentação:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
