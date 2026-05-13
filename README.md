@@ -179,5 +179,5 @@ Conteúdo didático e documentação:
 CC BY 4.0
 
 Autor:
-Anselmo Guerra – LPqS / EMAC / UFG
+Anselmo Guerra – LPqS / EM / UFG
 
