@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27710874/README.md)
-# LPqS-C-lculo-de-Modos
+# LPqS-Calculo-de-Modos
 cálculo de modos de ondas estacionárias em salas retangulares
 # Calculadora de Modos de Sala
 
