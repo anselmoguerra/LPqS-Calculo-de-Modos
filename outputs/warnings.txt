@@ -1,0 +1,6 @@
+Avisos sobre proporcoes da sala
+===============================
+
+Proporcao normalizada: 1:1.68:2.29
+
+[ok] Nenhum problema simples de proporcao foi detectado. Ainda assim, a decisao acustica final depende de materiais, posicao de fontes e ouvintes.

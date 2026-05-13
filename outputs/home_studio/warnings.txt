@@ -1,0 +1,6 @@
+Avisos sobre proporcoes da sala
+===============================
+
+Proporcao normalizada: 1:1.08:1.43
+
+[medio] A proporcao normalizada 1:1.08:1.43 e pouco espalhada. Dimensoes mais diferentes distribuem melhor os modos.

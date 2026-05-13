@@ -1,0 +1,7 @@
+Avisos sobre proporcoes da sala
+===============================
+
+Proporcao normalizada: 1:2.09:2.16
+
+[alto] comprimento e largura sao quase iguais. Salas quase cubicas concentram modos nas mesmas frequencias.
+[medio] Dois dos primeiros modos axiais estao separados por apenas 0.8 Hz (26.0 e 26.8 Hz).

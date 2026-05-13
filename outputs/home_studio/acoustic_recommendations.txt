@@ -1,0 +1,36 @@
+Relatorio de recomendacoes acusticas
+====================================
+
+Este relatorio e didatico e usa apenas um modelo preditivo de modos de sala retangular.
+Ele nao deve ser lido como prescricao definitiva de engenharia acustica. Na pratica, confirme as hipoteses com medicoes da sala, como sweep senoidal, resposta ao impulso, analise de RT/EDT e medicoes em diferentes posicoes de escuta.
+
+Dimensoes analisadas: 3.72 x 2.82 x 2.6 m
+Proporcao normalizada: 1:1.08:1.43
+Velocidade do som estimada: 345.71 m/s
+Total de modos calculados: 110
+
+Faixas de leitura usadas
+------------------------
+- Abaixo de 80 Hz: grave muito baixo; prioridade para armadilhas de grave.
+- 80 a 250 Hz: regiao modal grave/medio-grave; absorcao banda larga ou tratamento sintonizado.
+- 250 a 700 Hz: regiao de transicao; absorcao, posicionamento e analise de reflexoes.
+- Acima de 700 Hz: menos dominada por modos; considerar difusao e controle de reflexoes.
+
+Resumo por frequencia critica
+-----------------------------
+
+| frequency | mode type | severity | likely audible effect | suggested treatment | caution |
+| --- | --- | --- | --- | --- | --- |
+| 46 Hz | axial | alta | modos axiais baixos: podem dominar notas graves proximas | armadilhas de grave espessas, tratamento em cantos e teste de posicao de caixas/ouvintes | confirmar com sweep/IR; modos dependem muito da posicao de fonte e microfone |
+| proporcao 1:1.08:1.43 | geometria da sala | media | A proporcao normalizada 1:1.08:1.43 e pouco espalhada. Dimensoes mais diferentes distribuem melhor os modos. | reposicionamento de caixas/ouvintes; tratamento de graves e absorcao conforme medicao | proporcao ruim nao e corrigida so com material fino; medir antes de intervir pesado |
+| 61-66 Hz | axial | media | modos axiais baixos: podem dominar notas graves proximas | armadilhas de grave espessas, tratamento em cantos e teste de posicao de caixas/ouvintes | confirmar com sweep/IR; modos dependem muito da posicao de fonte e microfone |
+
+Comentarios didaticos
+---------------------
+Modos axiais costumam ser percebidos com mais forca porque envolvem duas superficies opostas. Quando dois modos aparecem na mesma frequencia, a sala pode reforcar muito uma nota ou criar cancelamentos fortes dependendo da posicao do ouvinte.
+
+Armadilhas de grave ajudam mais quando sao profundas, instaladas em regioes de alta pressao, como cantos e encontros entre paredes. Paineis finos geralmente nao resolvem problemas abaixo de 80 Hz.
+
+Entre 80 e 250 Hz, absorcao de banda larga mais espessa pode ajudar, mas alguns problemas muito estreitos podem exigir tratamento sintonizado. Esse tipo de decisao deve ser tomada com medicao.
+
+Acima da regiao modal principal, difusao e controle de primeiras reflexoes podem melhorar clareza, imagem estereo e conforto, mas isso ja nao e simplesmente 'corrigir modos'.

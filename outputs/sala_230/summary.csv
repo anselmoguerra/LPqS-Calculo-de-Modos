@@ -1,0 +1,14 @@
+metric,value
+length_m,6.66
+width_m,6.46
+height_m,3.09
+temperature_c,24.0
+speed_of_sound_m_s,345.707780
+volume_m3,132.942924
+surface_area_m2,167.128800
+spreadsheet_schroeder_label_hz,335.638621
+normalized_ratio,1.000:2.091:2.155
+total_modes,472
+axial_modes,27
+tangential_modes,174
+oblique_modes,271
